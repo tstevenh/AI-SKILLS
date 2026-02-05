@@ -1,0 +1,68 @@
+{
+  "name": "Armadillo Boulders - Stone Oak",
+  "address": "23132 US-281, San Antonio, TX 78258",
+  "city": "San Antonio",
+  "region": "TX",
+  "country": "US",
+  "latitude": 29.6612,
+  "longitude": -98.4485,
+  "phone": "+12102514029",
+  "email": "stoneoak@armadilloboulders.com",
+  "website": "https://www.armadilloboulders.com/",
+  "hero_image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzs2KCJNeioOIVDDdY4Jg4YVlQ4kNloYrrjDgHJqtRzwPHd950FoPpfLboXWlpbSIDO3V58zMnVz-H9UNdfiqBMMD4cjL2YIv1sv70u7LjPLZ_T5rz2oEX9sQY46H0hQlIwc_CGbKhv-1s-=w408-h272-k-no",
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Armadillo+Boulders+Stone+Oak+San+Antonio+TX",
+  "amenities": "showers|wifi|parking|cafe|pro_shop",
+  "custom_amenities": "tension_board|kilter_board|fitness_area|yoga_classes|youth_programs|coffee_on_tap",
+  "climbing_types": "bouldering",
+  "route_reset_frequency": "varies",
+  "total_routes": 120,
+  "wall_height_meters": 4.8,
+  "training_facilities": "tension_board|kilter_board|weights|spray_wall|campus_board",
+  "rental_equipment": "shoes|chalk_bag",
+  "beginner_friendly": true,
+  "day_pass_price_local": 19,
+  "student_discount": true,
+  "membership_from_local": 78,
+  "difficulty_grades": "V-scale",
+  "working_hour": "mon:08:00-22:00|tue:08:00-22:00|wed:08:00-22:00|thu:08:00-22:00|fri:08:00-22:00|sat:08:00-22:00|sun:08:00-22:00",
+  "about": "Armadillo Boulders - Stone Oak serves as the northern outpost for San Antonio's beloved climbing community. Located conveniently off US-281, this facility expands on the success of the downtown location by offering a spacious, modern bouldering environment tailored to both fitness enthusiasts and hard-training climbers. The gym features a comprehensive range of bouldering terrain, from slab to steep overhangs, all set with the same high-quality, seamless padding and creative route setting that locals have come to expect.\n\nWhat sets the Stone Oak location apart is its dedicated focus on training and fitness. The facility boasts an upstairs fitness area equipped with cardio machines, free weights, and bodyweight training rigs. For climbers looking to level up, the gym features specific training tools including a Tension 2 Board and a Kilter Board, allowing for standardized, app-based training sessions. Like its downtown sibling, it fosters a social atmosphere with cold brew coffee and kombucha on tap, plenty of lounge space, and high-speed WiFi for those who need to work between burns.\n\nThe gym maintains a strong community focus with regular events, ladies' nights, and youth programs. Whether you're a north-sider looking to avoid the downtown commute or a serious climber seeking access to top-tier training boards, Armadillo Boulders Stone Oak offers a premium, welcoming experience.",
+  "faq": [
+    {
+      "question": "What are the opening hours?",
+      "answer": "We are open daily from 8:00 AM to 10:00 PM. Members also have exclusive early access hours from 6:00 AM to 8:00 AM on Mondays and Thursdays."
+    },
+    {
+      "question": "Do you have rope climbing here?",
+      "answer": "No, we are a bouldering-only facility. We focus on high-quality boulder problems and training tools without ropes or harnesses."
+    },
+    {
+      "question": "Is there a student discount?",
+      "answer": "Yes! We host 'Student Night' every Saturday from 7:00 PM to close, where students with a valid ID can climb for $12."
+    },
+    {
+      "question": "What training boards do you have?",
+      "answer": "Our Stone Oak location is equipped with a Tension 2 Board and a Kilter Board, along with a campus board and standard fitness equipment."
+    },
+    {
+      "question": "Do I need to book in advance?",
+      "answer": "No booking is required for general climbing. You can drop in anytime during open hours. First-time visitors will need to sign a waiver and do a quick orientation."
+    },
+    {
+      "question": "Can I bring my kids?",
+      "answer": "Yes, we are family-friendly! We have youth rental shoes and plenty of beginner climbs. However, children must be supervised, and we do not host private birthday parties."
+    }
+  ],
+  "why_climbers_like_it": [
+    "Access to premium electronic training boards (Kilter and Tension 2)",
+    "Spacious upstairs fitness area separate from the climbing mats",
+    "Consistent and creative route setting with frequent turnover",
+    "Relaxed atmosphere with coffee and kombucha on tap",
+    "Convenient parking and location for North San Antonio residents"
+  ],
+  "rating_route_quality": 4.5,
+  "rating_cleanliness": 4.8,
+  "rating_staff_friendliness": 4.9,
+  "rating_facilities": 4.7,
+  "rating_value_for_money": 4.5,
+  "rating_overall": 4.7
+}
