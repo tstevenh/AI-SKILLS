@@ -1,0 +1,27 @@
+{
+  "name": "@indexsy/localseo-skill",
+  "version": "1.0.0",
+  "description": "Local SEO audit skill for AI agents - 50+ point audit methodology",
+  "keywords": [
+    "local-seo",
+    "seo-audit",
+    "ai-skill",
+    "clawdbot",
+    "google-business-profile",
+    "citations",
+    "nap-consistency"
+  ],
+  "author": "Jacky Chou <hello@indexsy.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indexsy/skills.git",
+    "directory": "localseo"
+  },
+  "homepage": "https://github.com/indexsy/skills/tree/main/localseo",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "KNOWLEDGE-BASE.md"
+  ]
+}

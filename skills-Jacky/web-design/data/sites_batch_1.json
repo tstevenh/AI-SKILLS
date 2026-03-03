@@ -1,0 +1,20 @@
+{
+  "sites": [
+    {"name": "Bajgart Office", "oplUrl": "https://onepagelove.com/bajgart-office", "websiteUrl": "https://bajgartoffice.com/", "thumbnail": "", "categories": ["Portfolio"], "type": "Portfolio"},
+    {"name": "App&Flow", "oplUrl": "https://onepagelove.com/app-flow", "websiteUrl": "https://appandflow.com/", "thumbnail": "", "categories": ["Portfolio", "Service"], "type": "Agency"},
+    {"name": "VOID", "oplUrl": "https://onepagelove.com/void", "websiteUrl": "https://void2.art/", "thumbnail": "", "categories": ["Experimental"], "type": "Experimental"},
+    {"name": "Magnet Lover", "oplUrl": "https://onepagelove.com/magnet-lover", "websiteUrl": "https://www.magnetlover.com/", "thumbnail": "", "categories": ["Landing Page", "Music Related", "Physical Product"], "type": "Product"},
+    {"name": "Joi Planner", "oplUrl": "https://onepagelove.com/joi-planner", "websiteUrl": "https://joi.software/", "thumbnail": "", "categories": ["App", "Landing Page"], "type": "SaaS"},
+    {"name": "Droplist", "oplUrl": "https://onepagelove.com/droplist", "websiteUrl": "https://dropli.st/", "thumbnail": "", "categories": ["App", "Landing Page", "Launching Soon"], "type": "App"},
+    {"name": "Luffu", "oplUrl": "https://onepagelove.com/luffu", "websiteUrl": "https://www.luffu.com/", "thumbnail": "", "categories": ["App", "Landing Page", "Launching Soon"], "type": "App"},
+    {"name": "Kuba", "oplUrl": "https://onepagelove.com/kuba-2026", "websiteUrl": "https://www.heykuba.com/", "thumbnail": "", "categories": ["Portfolio", "Service"], "type": "Portfolio"},
+    {"name": "Forma", "oplUrl": "https://onepagelove.com/forma", "websiteUrl": "https://www.useforma.app/", "thumbnail": "", "categories": ["App", "Digital Product", "Landing Page"], "type": "SaaS"},
+    {"name": "René Coignard", "oplUrl": "https://onepagelove.com/rene-coignard", "websiteUrl": "https://renecoignard.com/", "thumbnail": "", "categories": ["Music Related", "Personal"], "type": "Personal"},
+    {"name": "Sotto", "oplUrl": "https://onepagelove.com/sotto", "websiteUrl": "https://sotto.to/", "thumbnail": "", "categories": ["App", "Digital Product", "Landing Page"], "type": "SaaS"},
+    {"name": "Luciano Pereira", "oplUrl": "https://onepagelove.com/luciano-pereira", "websiteUrl": "https://luciano-pereira.pages.dev/", "thumbnail": "", "categories": ["Résumé"], "type": "Personal"},
+    {"name": "Biscuit Camera", "oplUrl": "https://onepagelove.com/biscuit-camera", "websiteUrl": "https://biscuitcamera.com/", "thumbnail": "", "categories": ["App", "Landing Page"], "type": "App"},
+    {"name": "ISO Meet", "oplUrl": "https://onepagelove.com/iso-meet", "websiteUrl": "https://www.isomeet.com/", "thumbnail": "", "categories": ["Landing Page", "Launching Soon"], "type": "Landing Page"},
+    {"name": "Control Tower", "oplUrl": "https://onepagelove.com/control-tower", "websiteUrl": "https://www.controltower.so/", "thumbnail": "", "categories": ["Digital Product", "Launching Soon"], "type": "SaaS"},
+    {"name": "Shapeshyft", "oplUrl": "https://onepagelove.com/shapeshyft-2026", "websiteUrl": "https://www.shapeshyft.co.uk/", "thumbnail": "", "categories": ["Portfolio", "Service"], "type": "Agency"}
+  ]
+}
